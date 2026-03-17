@@ -30,4 +30,4 @@ datasets/processed/*
 *.bak
 *.swp
 
-!dataset/raw/taxation
+!datasets/raw/taxation
